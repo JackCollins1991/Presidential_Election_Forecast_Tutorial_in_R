@@ -24,6 +24,7 @@ In this article we...
 2) Demonstrate modeling an electoral system, in this case the US electoral colleges, and translating this into a simulation of an election.
 3) Presenting an electoral forecast as a distribution of possible outcomes, rather than selecting one favored outcome. 
 
+Link to Git Hub:https://github.com/JackCollins1991/Presidential_Forecast_Tutorial
 
 ## Introduction
 
