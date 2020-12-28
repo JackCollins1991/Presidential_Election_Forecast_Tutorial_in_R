@@ -3,8 +3,8 @@ title: 'Making your own Presidential Election Forecast: Begginners'' Tutorial in
 author: "Jack Collins"
 date: "27/12/2020"
 output:
-  word_document: default
   html_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -15,6 +15,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ![The probability of the incumbent's electoral victory, based on State polls](Win_Chance.png)
 ![Win chances per state](Filtered State Probs.png)
 
+
+## Summary
+
+In this article we...
+
+1) Will not make you Nostradamus, but we will demonstrate how polling-based forecasts use survey data and weightings to develop forecasts.
+2) Demonstrate modeling an electoral system, in this case the US electoral colleges, and translating this into a simulation of an election.
+3) Presenting an electoral forecast as a distribution of possible outcomes, rather than selecting one favored outcome. 
 
 
 ## Introduction
