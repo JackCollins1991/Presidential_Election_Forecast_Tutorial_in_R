@@ -28,8 +28,8 @@ Link to Git Hub:https://github.com/JackCollins1991/Presidential_Forecast_Tutoria
 
 ## Introduction
 
-Come Presidential Election season in the USA, we most often hear that candidate A is X number of point ahead of their opponent. 
-This is typically just the number of percentage points different between the two parties in national polls. Of course, if you think about it, you'll realize this means very little for who will win the Presidency, because this doesn't account for the Electoral College - the means by which the States select the President. 
+Come Presidential Election season in the USA, we most often hear that candidate A is X number of points ahead of their opponent. 
+This is typically just the number of percentage points difference between the two parties in national polls. Of course, if you think about it, you'll realize this means very little for who will win the Presidency, because this doesn't account for the Electoral College - the means by which the States select the President. 
 
 In this article, we'll demonstrate a simple means of taking polling data, and converting it into a metric which does take the Electoral system into account:
 
