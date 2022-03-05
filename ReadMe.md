@@ -1,3 +1,6 @@
+#PresidentialForecastTutorial
+A demonstration of using polling data to construct a stochastic model of election prediction. Developed in R. 
+
 source for voter registrations
 https://worldpopulationreview.com/state-rankings/number-of-registered-voters-by-state
 
